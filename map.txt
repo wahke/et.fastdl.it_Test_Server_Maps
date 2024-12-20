@@ -1,0 +1,5 @@
+oasis
+goldrush
+battery
+radar
+fueldump
